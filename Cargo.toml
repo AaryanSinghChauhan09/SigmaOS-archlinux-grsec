@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-grsec"
+name = "sigmaos_archlinux_grsec"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-grsec component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-grsec component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-grsec"
+name = "sigmaos_archlinux_grsec"
 path = "src/lib.rs"

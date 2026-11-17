@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-grsec"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-grsec component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
